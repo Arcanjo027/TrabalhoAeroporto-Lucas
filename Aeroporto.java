@@ -51,3 +51,19 @@ public class Aeroporto {
         
     }
 }
+class Passageiros{
+    private String Nome;
+    private int idade;
+    private String Cpf;
+    private String Email;
+
+    public Passageiros(String Nome, int Idade, String Cpf, String Email) {
+        this.Nome = Nome;
+        this.idade = Idade;
+        this.Cpf = Cpf;
+        this.Email = Email;
+    }
+
+   
+       public String getname() { 
+       return Nome; }
