@@ -3,6 +3,8 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
+//Primeira Avaliação
+
 public class Aeroporto {
     public static void main(String[] args) {
         String voos [] = new String [5];
